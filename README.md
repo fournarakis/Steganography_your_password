@@ -6,11 +6,12 @@ The idea is very simple. You have a password (or any string) and you want to hid
 2) Now you have into your clipboard, your extra long password that is hard to memorize.
 
 ## Steps through the goal
-At the Password_Generator.exe :
+At the [Password_Generator.exe](https://github.com/fournarakis/Steganography_your_password/releases/download/1/Password.Generator.exe "Password_Generator.exe")
+ :
 1) Choose a text you want to hide (maybe your KeePass master password)
 2) Choose ANY file (this will encrypt your text)
 3) Click Encrypt and choose YES in the prompt
-4) Download the Calculator.exe
+4) Download the [Calculator.exe](https://github.com/fournarakis/Steganography_your_password/releases/download/1/Calculator.exe "Calculator.exe")
 5) Drag and Drop your file at the Calculator.exe
 6) Now you can paste your password! (ctrl+V)
 
