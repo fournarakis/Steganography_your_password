@@ -59,14 +59,14 @@ namespace Calculator
         {
             if (args.Length > 0)
             {
-                string hidden_string = "<<Embedded encrypted string from Password Generator (Replace this line with your string)>>";
                 try
                 {
+                    string hidden_string = "<<Embedded encrypted string from Password Generator (Replace this line with your string)>>";
                     hidden_string = File.ReadAllText(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator\functions.dll");
+                    string hashed_password = BitConverter.ToString(SHA512.Create().ComputeHash(File.ReadAllBytes(args[0])));
+                    Clipboard.SetText(DecryptText(hidden_string, hashed_password));
                 }
-                catch { }
-                string hashed_password = BitConverter.ToString(SHA512.Create().ComputeHash(File.ReadAllBytes(args[0])));
-                Clipboard.SetText(DecryptText(hidden_string, hashed_password));
+                catch { }               
             }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

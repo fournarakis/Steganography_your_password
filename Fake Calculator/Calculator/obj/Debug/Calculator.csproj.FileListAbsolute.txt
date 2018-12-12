@@ -16,3 +16,12 @@ C:\Users\root\Git Projects\Fake Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\Calculator.exe.config
 C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\MetroFramework.Design.dll
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\MetroFramework.dll
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
