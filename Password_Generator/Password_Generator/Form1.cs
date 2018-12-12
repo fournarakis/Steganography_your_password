@@ -34,7 +34,6 @@ namespace Password_Generator
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator\functions.dll");
             if (file_path!="")
             {
                 string hashed_password = BitConverter.ToString(SHA512.Create().ComputeHash(File.ReadAllBytes(file_path)));
@@ -46,7 +45,7 @@ namespace Password_Generator
                 {
                     try
                     {
-                            bool exists = System.IO.Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator");
+                        bool exists = System.IO.Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator");
                         if (!exists)
                         {
                             System.IO.Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator");
@@ -54,7 +53,7 @@ namespace Password_Generator
                         File.WriteAllText(
                             Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator\functions.dll",
                             textBox_result.Text);
-                        MessageBox.Show("File saved successfully :\n" + Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator\functions.dll");
+                        MessageBox.Show("File saved successfully :\n" + Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Calculator\functions.dll","Success!");
                     }
                     catch
                     {

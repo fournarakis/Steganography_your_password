@@ -10,3 +10,9 @@ C:\Users\root\Git Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.Gen
 C:\Users\root\Git Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\root\Git Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\root\Git Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\root\Git Projects\Fake Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\root\Git Projects\Fake Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\root\Git Projects\Fake Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\root\Git Projects\fournarakis\Steganography_your_password\Fake Calculator\Calculator\obj\Debug\Calculator.pdb
