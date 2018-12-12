@@ -1,6 +1,6 @@
 # Protect your password with Steganography
-The idea is very simple. You have a password (or any string) and you want to hide it from the prying eyes.
-
+The idea is very simple. You have a password (or any string) and you want to hide it from the prying eyes.<br/><br/>
+![Demo Video](/Demonstration.gif)
 ## The Goal
 1) You drag and drop ANY file (eg. music.mp3) into the icon of a calculator!
 2) Now you have into your clipboard, your extra long password that is hard to memorize.
