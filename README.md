@@ -3,7 +3,7 @@ The idea is very simple. You have a password (or any string) and you want to hid
 
 ## The Goal
 1) You drag and drop ANY file (eg. music.mp3) into the icon of a calculator!
-2) You in your clipboard your extra long password that is hard to memorize.
+2) Now you have into your clipboard, your extra long password that is hard to memorize.
 
 ## Steps through the goal
 At the Password_Generator.exe :
